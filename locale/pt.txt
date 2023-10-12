@@ -1,0 +1,87 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_17C52D7D_2069_C076_41AF_9522680B2F54.source = https://maps.app.goo.gl/sNoC4mxiGB2Fwpee9
+LinkBehaviour_10CDAB76_20E8_4072_41B7_994E4E4AD5D7.source = https://maps.app.goo.gl/sNoC4mxiGB2Fwpee9
+LinkBehaviour_17AAE56D_2067_C191_41AE_4564B0C483E6.source = https://wa.me/48998419841
+LinkBehaviour_111E7F7C_2098_C076_41B1_D3F09E24D017.source = https://wa.me/48998419841
+LinkBehaviour_1936DDDB_2068_C0B2_41BE_7B3A7E152FCC.source = https://www.google.com/search?q=capa+chic&source=lmns&bih=1158&biw=1777&rlz=1C1JJTC_pt-PTBR1069BR1069&hl=pt-BR&sa=X&ved=2ahUKEwit2q-0su-BAxVDN7kGHf79DrMQ_AUoAHoECAEQAA#lrd=0x9521828149269765:0x2ce85be967029ec5,3,,,,
+LinkBehaviour_1730130A_2068_C193_41A8_6CB37F30E461.source = https://www.google.com/search?q=capa+chic&source=lmns&bih=1158&biw=1777&rlz=1C1JJTC_pt-PTBR1069BR1069&hl=pt-BR&sa=X&ved=2ahUKEwit2q-0su-BAxVDN7kGHf79DrMQ_AUoAHoECAEQAA#lrd=0x9521828149269765:0x2ce85be967029ec5,3,,,,
+LinkBehaviour_152F876C_20E8_4196_41B4_81E11404E34F.source = https://www.instagram.com/capachic/
+LinkBehaviour_18B8FD41_2068_C191_41B8_C4B4CBE32DDA.source = https://www.instagram.com/capachic/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_0D28D533_1FB8_41F2_41AC_3DE2AD69502A.text = clique aqui e conheça  \
+alguns de nossos produtos
+
+## Media
+
+### Audio
+audiores_37FBD335_20B8_41F6_41B3_16A18DAC3A3E.mp3Url = media/audio_352DABCB_20B8_4091_417A_CA1E6AEDF916_pt.mp3
+audiores_3B0AF7AF_21B8_4091_4163_70FCFA724BEA.mp3Url = media/audio_392B1763_2079_C192_419A_E79EDF5045D8_pt.mp3
+
+### Image
+imlevel_137D6175_2099_C071_41BC_2C988BF54798.url = media/panorama_13C70172_1FF8_4072_41A1_00EE7CD83CE8_HS_2coij95i_pt.png
+
+### Title
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_5.label = IMG-20231011-WA0021
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_6.label = IMG-20231011-WA0022
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_7.label = IMG-20231011-WA0023
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_8.label = IMG-20231011-WA0024
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_9.label = IMG-20231011-WA0025
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_10.label = IMG-20231011-WA0026
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_11.label = IMG-20231011-WA0027
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_12.label = IMG-20231011-WA0028
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_13.label = IMG-20231011-WA0029
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_14.label = IMG-20231011-WA0030
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_15.label = IMG-20231011-WA0031
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_16.label = IMG-20231011-WA0032
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_17.label = IMG-20231011-WA0033
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_18.label = IMG-20231011-WA0034
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_19.label = IMG-20231011-WA0035
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_0.label = IMG_20231010_141635
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_1.label = IMG_20231010_141655
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_2.label = IMG_20231010_141746
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_3.label = IMG_20231010_141819
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49_4.label = IMG_20231010_143021
+panorama_12EF01B6_1FF8_C0F3_41BA_CDCB147A55C5.label = capa 04
+panorama_13DBAF06_1FF8_C193_41B6_CBB0E3DDED97.label = capa 08
+panorama_13D8DB75_1FF8_C076_41B2_3A7F4530C9C9.label = capa01
+panorama_13D849B7_1FF8_C0F2_41BB_0A3BF29C8292.label = capa02
+panorama_13D83794_1FF8_C0B7_41A6_B878C90C61CE.label = capa03
+panorama_13C75446_1FF8_4793_41BA_2083D192BEEC.label = capa05
+panorama_13C70172_1FF8_4072_41A1_00EE7CD83CE8.label = capa06
+panorama_13C70EEB_1FF8_4091_41BD_3A596BE1AB84.label = capa07
+panorama_13C70B78_1FF8_407E_4187_F6B7D1838272.label = capa09
+panorama_13C727F8_1FF8_407E_41A1_D1832081DCB0.label = capa10
+album_34EB5B10_20A8_418F_41A7_8884BF5FEF49.label = Álbum de Fotos IMG_20231010_141635
+
+## Skin
+
+### Image
+Image_007C3328_2199_C19F_41C0_3BB4407F342B.url = skin/Image_007C3328_2199_C19F_41C0_3BB4407F342B_pt.png
+Image_09137955_20A8_41B1_41A2_263876082904.url = skin/Image_09137955_20A8_41B1_41A2_263876082904_pt.png
+Image_1407D3F5_2078_C071_41C0_648582461E70.url = skin/Image_1407D3F5_2078_C071_41C0_648582461E70_pt.png
+Image_141571CF_2078_4091_41B4_9029ED9348B4.url = skin/Image_141571CF_2078_4091_41B4_9029ED9348B4_pt.png
+Image_14CAECB0_2078_408F_4194_33E680538F74.url = skin/Image_14CAECB0_2078_408F_4194_33E680538F74_pt.png
+Image_14E63E8B_207F_C091_41B2_A63A2D625E36.url = skin/Image_14E63E8B_207F_C091_41B2_A63A2D625E36_pt.png
+Image_163ED481_2079_C08E_4166_CD221FE93626.url = skin/Image_163ED481_2079_C08E_4166_CD221FE93626_pt.png
+Image_17731EC5_2078_4091_4161_7A3FE1874BFC.url = skin/Image_17731EC5_2078_4091_4161_7A3FE1874BFC_pt.png
+Image_3F3C0E6E_2198_4393_418E_8CD44973D7A5.url = skin/Image_3F3C0E6E_2198_4393_418E_8CD44973D7A5_pt.png
+Image_3F6C4DA0_21EF_C08E_41AA_C8A76BF2AF25.url = skin/Image_3F6C4DA0_21EF_C08E_41AA_C8A76BF2AF25_pt.png
+Image_3FA7339A_219B_C0B2_41B7_DC443B19020C.url = skin/Image_3FA7339A_219B_C0B2_41B7_DC443B19020C_pt.png
+Image_3FAF00F5_2198_C076_41B6_880209981E88.url = skin/Image_3FAF00F5_2198_C076_41B6_880209981E88_pt.png
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Capa Chic
